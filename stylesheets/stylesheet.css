@@ -54,6 +54,15 @@ header h1 {
   letter-spacing: -1px;
 }
 
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+}
+
 #container {
   min-height: 595px;
   background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
